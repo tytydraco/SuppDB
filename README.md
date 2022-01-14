@@ -1,7 +1,12 @@
 # SuppDB
 A database of various supplements and their neurological profile
 
+# Using
 Click [here](https://github.com/tytydraco/SuppDB/blob/main/Supplements.csv) to access the spreadsheet online.
+
+If there are blank entries, it is intentional. Usually, this happens when there is no proper term to use when describing a supplement.
+
+Individuals can search the spreadsheet using the search bar. Possible search terms may include "Antidepressant", or "GABA".
 
 # Philosophy
 The goal of this project is not to explain every little intricacy of every supplement. It is to give a **general neurological profile** of the supplement to lead individuals in the right direction.
