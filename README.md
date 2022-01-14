@@ -1,7 +1,7 @@
 # SuppDB
 A database of various supplements and their neurological profile
 
-Click [https://github.com/tytydraco/SuppDB/blob/main/Supplements.csv](url) to access the spreadsheet online.
+Click [here](https://github.com/tytydraco/SuppDB/blob/main/Supplements.csv) to access the spreadsheet online.
 
 # Philosophy
 The goal of this project is not to explain every little intricacy of every supplement. It is to give a **general neurological profile** of the supplement to lead individuals in the right direction.
