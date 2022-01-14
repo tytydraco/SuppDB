@@ -25,10 +25,13 @@ Each supplement should specify these parameters:
 
 Occasionally, there will be research that suggests certain neurological changes, but only in high concentrations. Use your own discretion to decide if the effect is relevent enough to be included in the profile or not.
 
-## Steps to contribute
+## Doing it yourself
 1. Fork the repository under your account
 2. Decide which supplement you want to add or update
 3. Perform some very basic research to create a neurological profile of the supplement
 4. Perform your change to the spreadsheet file (either manually or with a CSV editor)
 5. Create a pull request on this repository with your changes
 6. Wait for moderator approval
+
+## Requesting it
+Create a [new issue](https://github.com/tytydraco/SuppDB/issues/new/choose) on the repository, and just state the name of the supplement you would like to have researched. Either I or another contributor might create the profile for you and update the database.
