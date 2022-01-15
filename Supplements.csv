@@ -1,36 +1,50 @@
-Name,Type,Category,Positive,Negative
-Chinese Skullcap,Herb,Anxiolytic,"GABAA,Dopamine",
-L-Theanine,Amino Acid,"Anxiolytic,Sedative","Dopamine,GABA","Serotonin,AMPA,NMDA,Kainate,Glutamate"
-Taurine,Amino Acid,"Anxiolytic,Antidepressant","GABA,Glycine",NMDA
-Glycine,Amino Acid,Sedative,"Glycine,NMDA",
-Magnesium,Mineral,,,NMDA
-Zinc,Mineral,,,"NMDA,Serotonin"
-Valerian,Herb,"Anxiolytic,Sedative","GABAA,Serotonin,Melatonin,Adenosine",
-Magnolia,Herb,"Anxiolytic,Sedative,Antidepressant","Acetylcholine,GABAA,Dopamine,Adenosine,Serotonin","Glutamate,Serotonin"
-Lemon Balm,Herb,"Anxiolytic,Sedative",Acetylcholine,GABA-T
-Ashwagandha,Herb,Anxiolytic,"Acetylcholine,NMDA,GABAA,Epinephrine",MAOI
-Curcumin,Herb,"Antidepressant,Analgesic,Anxiolytic",DHA,NMDA
-Apigenin,Flavonoid,"Anxiolytic,Sedative",GABA,
-Kava Kava,Herb,"Anxiolytic,Sedative","GABA,Dopamine",
-Black Seed Oil,Herb,"Anxiolytic,Analgesic,Antidepressant","GABA,Opioid",
-GABA,Amino Acid,"Anxiolytic,Sedative",GABA,
-Passion Flower,Herb,"Anxiolytic,Sedative",GABA,
-Agmatine,Amino Acid,"Analgesic,Antidepressant","Imidazoline,α2,Serotonin,Cannabinoid,Opioid,ASIC3 ","α2,NMDA,nNOS,Acetylcholine"
-Vitex Agnus-Castus,Herb,Anxiolytic,"Dopamine,Melatonin,Opioid,Serotonin",
-Oleamide,Other,"Analgesic,Sedative,Antidepressant","TRPV1,Serotonin,GABAA,Glycine,Acetylcholine,CB1",
-Lavender,Herb,"Anxiolytic,Sedative","GABAA,Acetylcholine,Estrogen",Testosterone
-Cnidium Monnieri,Herb,Sedative,"Glutamate,PKC,cGMP,GABAA",
-Huperzine A,Other,Cholinergic,Acetylcholine,NMDA
-Aniracetam,Racetam,Cholinergic,"AMPA,Kainate,Adrenergic,α4β2,Acetylcholine","GABA,Dopamine"
-Phenibut,Amino Acid,"Anxiolytic,Sedative",GABA,α2δ
-N-Acetyl Cysteine,Amino Acid,,Dopamine,"Glutamate,Dopamine"
 5-HTP,Amino Acid,Antidepressant,Serotonin,
+Adrafinil,Other,Stimulant,Adrenergic,
+Agmatine,Amino Acid,"Analgesic,Antidepressant","Imidazoline,α2,Serotonin,Cannabinoid,Opioid,ASIC3","α2,NMDA,nNOS,Acetylcholine"
 Alpha-GPC,Other,Cholinergic,"Dopamine,Serotonin,Acetylcholine,GABA,PKC",
-Pycnogenol,Herb,Vasodilator,NO,
-L-Citrulline,Amino Acid,Vasodilator,NO,
-L-Carnitine,Amino Acid,"Cholinergic,Antidepressant","Acetylcholine,Serotonin,Noradrenaline",GABA
-Vitamin C,Vitamin,Antidepressant,"Acetylcholine,NO",NMDA
-Vinpocetine,Other,Vasodilator,"cGMP,NO,Adrenergic,Adenosine,GABAA","PDE1,Dopamine,Glutamate,IKKβ"
-Nitrate,Other,Vasodilator,NO,
-Melatonin,Hormone,"Sedative,Antidepressant",Melatonin,"Adregenergic,Dopamine"
+Aniracetam,Racetam,Cholinergic,"AMPA,Kainate,Adrenergic,α4β2,Acetylcholine","GABA,Dopamine"
+Apigenin,Flavonoid,"Anxiolytic,Sedative",GABA,
+Ashwagandha,Herb,Anxiolytic,"Acetylcholine,NMDA,GABAA,Epinephrine",MAOI
+Bacopa Monnieri,Herb,"Cholinergic,Anxiolytic","Serotonin,Acetylcholine",Dopamine
+Black Seed Oil,Herb,"Anxiolytic,Analgesic,Antidepressant","GABA,Opioid",
+Caffeine,Other,"Stimulant,Cholinergic","Serotonin,Adrenergic,Glutamate,Acetylcholine,Dopamine,GABA,Opioid",Adenosine
+CBD,Cannabinoid,,TRPV1,
+Chinese Skullcap,Herb,Anxiolytic,"GABAA,Dopamine",
+Cnidium Monnieri,Herb,Sedative,"Glutamate,PKC,cGMP,GABAA",
+Curcumin,Herb,"Antidepressant,Analgesic,Anxiolytic",DHA,NMDA
+DMAA,Other,Stimulant,,
+DMAE,Other,Cholinergic,Acetylcholine,
+Dynamine,Other,Stimulant,Dopamine,Adenosine
 Fish Oil,Other,Antidepressant,,
+GABA,Amino Acid,"Anxiolytic,Sedative",GABA,
+Ginko Biloba,Herb,"Anxiolytic,Cholinergic,Antidepressant","Dopamine,Acetylcholine","Adrenergic,Serotonin,GABAA,Histamine"
+Glycine,Amino Acid,Sedative,"Glycine,NMDA",
+Huperzine A,Other,Cholinergic,Acetylcholine,NMDA
+Kava Kava,Herb,"Anxiolytic,Sedative","GABA,Dopamine",
+L-Carnitine,Amino Acid,"Cholinergic,Antidepressant","Acetylcholine,Serotonin,Noradrenaline",GABA
+L-Citrulline,Amino Acid,Vasodilator,NO,
+L-Theanine,Amino Acid,"Anxiolytic,Sedative","Dopamine,GABA","Serotonin,AMPA,NMDA,Kainate,Glutamate"
+L-Tryptophan,Amino Acid,Antidepressant,Serotonin,
+L-Tyrosine,Amino Acid,Stimulant,"Dopamine,Adrenergic",
+Lavender,Herb,"Anxiolytic,Sedative,Cholinergic","GABAA,Acetylcholine,Estrogen",Testosterone
+Lemon Balm,Herb,"Anxiolytic,Sedative,Cholinergic",Acetylcholine,GABA-T
+Magnesium,Mineral,,,NMDA
+Magnolia,Herb,"Cholinergic,Anxiolytic,Sedative,Antidepressant","Acetylcholine,GABAA,Dopamine,Adenosine,Serotonin","Glutamate,Serotonin"
+Melatonin,Hormone,"Sedative,Antidepressant",Melatonin,"Adregenergic,Dopamine"
+N-Acetyl Cysteine,Amino Acid,,Dopamine,"Glutamate,Dopamine"
+NALT,Amino Acid,Stimulant,"Dopamine,Adrenergic",
+Name,Type,Category,Positive,Negative
+Nitrate,Other,Vasodilator,NO,
+Oleamide,Other,"Cholinergic,Analgesic,Sedative,Antidepressant","TRPV1,Serotonin,GABAA,Glycine,Acetylcholine,CB1",
+Palmitoylethanolamide ,Other,"Antidepressant,Analgesic",,NOS
+Passion Flower,Herb,"Anxiolytic,Sedative",GABA,
+Phenibut,Amino Acid,"Anxiolytic,Sedative",GABA,α2δ
+Pycnogenol,Herb,Vasodilator,NO,
+Taurine,Amino Acid,"Anxiolytic,Antidepressant","GABA,Glycine",NMDA
+Theacrine,Other,"Stimulant,Analgesic,Sedative",Dopamine,Adenosine
+Tongkat Ali,Herb,"Aphrodisiac,Anxiolytic",,Estrogen
+Valerian,Herb,"Anxiolytic,Sedative","GABAA,Serotonin,Melatonin,Adenosine",
+Vinpocetine,Other,Vasodilator,"cGMP,NO,Adrenergic,Adenosine,GABAA","PDE1,Dopamine,Glutamate,IKKβ"
+Vitamin C,Vitamin,"Antidepressant,Cholinergic","Acetylcholine,NO",NMDA
+Vitex Agnus-Castus,Herb,Anxiolytic,"Dopamine,Melatonin,Opioid,Serotonin",
+Zinc,Mineral,,,"NMDA,Serotonin"
